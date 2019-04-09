@@ -2,7 +2,7 @@
 
 #### How to use
 
-```
+```shell
    git clone https://github.com/enzobarrett/recursiveweirdweirdflexbutokbutok.git
    cd recursiveweirdweirdflexbutokbutok
    python recursiveweirdflexbutok.py n
