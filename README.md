@@ -9,4 +9,4 @@ python recursiveweirdflexbutok.py n
 # n is the number of recursions that occur
 ```
 
-[![asciicast](https://asciinema.org/a/xKEEgNsFEgh2FeOfIvdLxLt1e.svg)](https://asciinema.org/a/xKEEgNsFEgh2FeOfIvdLxLt1e)
+[![asciicast](https://asciinema.org/a/YaAaSB7ldLbS5sN7AM7VzEgX7.svg)](https://asciinema.org/a/YaAaSB7ldLbS5sN7AM7VzEgX7)
